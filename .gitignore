@@ -157,5 +157,5 @@ cython_debug/
 .idea/
 .vscode/
 __pycache__/
-dataset/widerface/
-core/weights/
+runs/
+weights/
